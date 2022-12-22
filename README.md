@@ -16,11 +16,14 @@
   <img align="center" alt="Minh-Nhat-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Minh-Nhat-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Minh-Nhat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Minh-Nhat-React-js" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+ 
+   <h3 align="left">Technologies:</h3>
+   <img align="center" alt="Minh-Nhat-React-js" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
   <img align="center" alt="Minh-Nhat-Redux" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png">
   <h3 align="left">OS:</h3>
   <img align="center" alt="Minh-Nhat-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-
+ 
+  
   <h3 align="left">Database:</h3>
   <img align="center" alt="Minh-Nhat-Firebase" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png">
   <h3 align="left">Tools Code:</h3>
